@@ -1,5 +1,5 @@
-# MyGym Fitness website
-This website contains frontend for Mygym website, and technologies used are 
+# MyFitness website
+This website contains frontend for MyFitness website, and technologies used are 
 * HTML    
  
 * CSS
