@@ -6,7 +6,7 @@ This web based health application has been developed for the accomplishment of F
 
 
 Project URL Link :- https://ashy-mud-0e6d86500.2.azurestaticapps.net
-project demo video link :- 
+project demo video link :- https://youtu.be/OPtdRMJhFFY
 
 # Azure technologies used for Project.
 
