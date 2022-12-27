@@ -62,7 +62,7 @@ This website contains frontend for My Fitness website, and technologies used are
 * HTML     
 * CSS
 * JS
-That Binds up through Github and deployed using Azure Static Web Apps, and We also Included Another Service Azure Health Bot esentillay needed for health related servive,
+That Binds up through Github and deployed using Azure Static Web Apps, and We also Included Another Service Azure Health Bot esentillay needed for health related service.
 
 
 
